@@ -1,5 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn
-pickle-mix; python_version < "3.8"  # Or simply omit if using standard pickle built-in
